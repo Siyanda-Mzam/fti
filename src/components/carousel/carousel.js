@@ -2,12 +2,12 @@ import Flickity from 'react-flickity-component'
 import React from 'react';
 
 const flickityOptions = {
-  initialIndex: 2,
-  cellAlign: 'left',
+  cellAlign: 'center',
   autoPlay: true,
   draggable: true,
-  groupCells: 2,
-  wrapAround: true
+  groupCells: 1,
+  wrapAround: true,
+  accessible: true
 }
 
 export default class Carousel extends React.Component {
