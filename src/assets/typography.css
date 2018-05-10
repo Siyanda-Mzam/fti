@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'Fti-Light';
+  font-style: normal;
+  font-weight: 300;
+  src: local("Dosis Light"), local("Dosis-Light"), url(https://fonts.gstatic.com/s/dosis/v7/HhyXU5sn9vOmLzHDKeCFMIs.woff2) format("woff2");
+  unicode-range: U0-0ff, U131, U152-153, U2bb-2bc, U2c6, U2da, U2dc, U2000-206f, U2074, U20ac, U2122, U2191, U2193, U2212, U2215, UFEFF, UFFFD; }
+
+@font-face {
+  font-family: 'Fti-Regular';
+  font-style: normal;
+  font-weight: 400;
+  src: local("Dosis Regular"), local("Dosis-Regular"), url(https://fonts.gstatic.com/s/dosis/v7/HhyaU5sn9vOmLzloC_U.woff2) format("woff2");
+  unicode-range: U0-0ff, U131, U152-153, U2bb-2bc, U2c6, U2da, U2dc, U2000-206f, U2074, U20ac, U2122, U2191, U2193, U2212, U2215, UFEFF, UFFFD; }
+
+@font-face {
+  font-family: 'Fti-Medium';
+  font-style: normal;
+  font-weight: 500;
+  src: local("Dosis Medium"), local("Dosis-Medium"), url(https://fonts.gstatic.com/s/dosis/v7/HhyXU5sn9vOmLzGbKOCFMIs.woff2) format("woff2");
+  unicode-range: U0-0ff, U131, U152-153, U2bb-2bc, U2c6, U2da, U2dc, U2000-206f, U2074, U20ac, U2122, U2191, U2193, U2212, U2215, UFEFF, UFFFD; }
+
+@font-face {
+  font-family: 'Fti-SemiBold';
+  font-style: normal;
+  font-weight: 600;
+  src: local("Dosis SemiBold"), local("Dosis-SemiBold"), url(https://fonts.gstatic.com/s/dosis/v7/HhyXU5sn9vOmLzG3L-CFMIs.woff2) format("woff2");
+  unicode-range: U0-0ff, U131, U152-153, U2bb-2bc, U2c6, U2da, U2dc, U2000-206f, U2074, U20ac, U2122, U2191, U2193, U2212, U2215, UFEFF, UFFFD; }

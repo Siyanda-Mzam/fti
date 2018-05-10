@@ -1,0 +1,25 @@
+.desktop-menu {
+    background: black;
+    padding: 2em 0;
+    ul {
+        list-style: none;
+        li {
+            display: inline-block;
+            margin-right: 1em;
+            font-family: 'Fti-Regular';
+            text-transform: uppercase;
+            &:nth-last-child {
+                margin-right: 0;
+            }
+        }
+        a {
+            text-decoration: none;
+            color: white;
+            transition: all 0.4s ease;
+            &:hover {
+                cursor: pointer;
+                color: #1ca3a3;
+            }
+        }
+    }
+}

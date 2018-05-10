@@ -1,0 +1,26 @@
+.footer-head {
+    color: white;
+    font-family: 'Fti-SemiBold';
+    letter-spacing: 1.2px;
+}
+
+.footer-content-container {
+    font-family: 'Fti-Regular';
+    letter-spacing: 1.2px;
+    .footer-items {
+        margin: 1.2em 0 0 0;
+        color: white;
+        a {
+            text-decoration: none;
+            color: inherit;
+            display: block;
+            margin: 1em 0 0 0;
+        }
+        .address {
+            margin-top: 1em;
+        }
+        .copywrite {
+            margin-top: 5em;
+        }
+    }
+}

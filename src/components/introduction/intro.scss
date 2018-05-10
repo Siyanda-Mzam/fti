@@ -1,0 +1,21 @@
+.intro-container {
+    color: black;
+    padding: 1em;
+    width: 50%;
+    background: #1ca3a3;
+    left: 50%;
+    box-sizing: border-box;
+    transform: translateX(-50%);
+    position: relative;
+    margin-top: -3em;
+    font-family: 'Fti-Regular';
+    letter-spacing: 3px;
+    font-size: 3.2em;
+    .intro {
+        position: relative;
+    }
+    .sub-intro {
+        font-size: .37em;
+        margin-top: 1.3em;
+    }
+}
